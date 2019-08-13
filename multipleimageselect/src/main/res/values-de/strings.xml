@@ -12,4 +12,8 @@
     <string name="permission_denied">Zugriff verweigert!</string>
     <string name="permission_denied_albums">Zugriff auf Fotos, Medien und Dateien auf dem Gerät erlauben, um die Alben anzuzeigen</string>
     <string name="permission_denied_images">Zugriff auf Fotos, Medien und Dateien auf dem Gerät erlauben, um die Bilder anzuzeigen</string>
+
+    <string name="grant_permission">Genehmigung erteilen</string>
+
+    <string name="error_null_cursor">Etwas ist schiefgelaufen!</string>
 </resources>

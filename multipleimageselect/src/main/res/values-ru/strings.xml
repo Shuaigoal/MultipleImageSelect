@@ -12,4 +12,8 @@
     <string name="permission_denied">Отсутствует разрешение!</string>
     <string name="permission_denied_albums">Разрешите доступ к фотографиям, медиа и файлам на своём устройстве для просмотра альбомов</string>
     <string name="permission_denied_images">Разрешите доступ к фотографиям, медиа и файлам на своём устройстве для просмотра изображений</string>
+
+    <string name="grant_permission">выдавать разрешение</string>
+
+    <string name="error_null_cursor">Ой, что - то не так!</string>
 </resources>
