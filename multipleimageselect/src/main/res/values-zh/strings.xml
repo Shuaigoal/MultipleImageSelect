@@ -2,8 +2,8 @@
 <resources>
     <string name="app_name">多图片选择</string>
 
-    <string name="album_view">选择相册图片</string>
-    <string name="image_view">点击选择</string>
+    <string name="album_view">选择相册</string>
+    <string name="image_view">选择图片</string>
 
     <string name="add">确定</string>
     <string name="selected">已选</string>
